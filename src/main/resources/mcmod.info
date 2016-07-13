@@ -1,0 +1,16 @@
+[
+  {
+  "modid": "tetracraft",
+  "name": "TetraCraft",
+  "description": "Another Adventure, the Sequel of Zero Quest",
+  "version": "0.1.0",
+  "mcversion": "1.9.4",
+  "logoFile": "assets/tetracraft/logo/logo1.png",
+  "url": "",
+  "authorList": ["NovaViper"],
+  "credits": "Made by NovaViper",
+  "screenshots": [],
+  "dependencies": [],
+  "dependants": []
+  }
+]

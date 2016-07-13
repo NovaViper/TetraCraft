@@ -1,0 +1,9 @@
+{
+  "entity.terrakon.bark": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/bark1", "tetracraft:entity/terrakon/bark2", "tetracraft:entity/terrakon/bark3"], "subtitle": "subtitles.tetracraft:entity.terrakon.bark"},
+  "entity.terrakon.growl": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/growl1", "tetracraft:entity/terrakon/growl2", "tetracraft:entity/terrakon/growl3"], "subtitle": "subtitles.tetracraft:entity.terrakon.growl"},
+  "entity.terrakon.hurt": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/hurt1", "tetracraft:entity/terrakon/hurt2", "tetracraft:entity/terrakon/hurt3"], "subtitle": "subtitles.tetracraft:entity.terrakon.hurt"},
+  "entity.terrakon.pant": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/panting"], "subtitle": "subtitles.tetracraft:entity.terrakon.pant"},
+  "entity.terrakon.whine": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/whine"], "subtitle": "subtitles.tetracraft:entity.terrakon.whine"},
+  "entity.terrakon.death": {"category": "neutral", "sounds": ["tetracraft:entity/terrakon/death"], "subtitle": "subtitles.tetracraft:entity.terrakon.death"},
+  "action.saddle": {"sounds": [{"name": "minecraft:entity.horse.saddle", "type": "event"}], "subtitle": "subtitles.tetracraft:action.saddle"}
+}
