@@ -1,0 +1,6 @@
+{
+    "parent": "tetracraft:item/ballisticBow",
+    "textures": {
+        "layer0": "tetracraft:items/ballisticBow_pulling_0"
+    }
+}

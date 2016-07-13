@@ -1,0 +1,96 @@
+﻿language.name=English
+language.region=US
+language.code=en_US
+
+#Creative Tabs
+itemGroup.tetracraft=TetraCraft
+
+#Death Messages
+death.attack.ice=%1$s frozen to death by %2$s
+
+#Blocks
+tile.tetracraft:broxStone.name=Brox Stone
+tile.tetracraft:triaxOre.name=Triax Ore
+
+#Items
+item.tetracraft:ballisticBow.name=Ballistic Bow
+item.tetracraft:triaxIngot.name=Triax Ingot
+item.tetracraft:breedingBone.name=Breeding Bone
+
+#Command Usages
+commands.tetracraft.usage=/tetracraft,tcraft,tc help,h,?
+commands.tetracraft:help.header=§2Showing help page %d/%d (/tetracraft help <page>)
+commands.tetracraft:help.headerMain=---- %s ----
+commands.tetracraft:help.footer=Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+commands.tetracraft:help.usage=/tetracraft help,h,? [page|command name]
+commands.tetracraft:admin.usage=/tetracraft, admin,a,* <tame,t|heal,hp|name,n <New Name>|purge,p <wild,w|tamed,t|all,a>|age,a <baby,b|adult,a>|gender,g <male,boy|female,girl> [global, g, all, a]>
+commands.tetracraft:version.usage=/tetracraft version,v
+
+#Entities
+entity.tetracraft.Terrakon.name=Terrakon
+tetracraft.Terrakon.name=Terrakon
+
+#Subtitles
+subtitles.tetracraft:entity.terrakon.bark=Terrakon barks
+subtitles.tetracraft:entity.terrakon.growl=Terrakon growls
+subtitles.tetracraft:entity.terrakon.hurt=Terrakon hurts
+subtitles.tetracraft:entity.terrakon.pant=Terrakon pants
+subtitles.tetracraft:entity.terrakon.whine=Terrakon whines
+subtitles.tetracraft:entity.terrakon.death=Terrakon dies
+subtitles.tetracraft:action.land=Lands
+subtitles.tetracraft:action.saddle=Saddle is equipped
+
+#Achievements
+achievement.nileStart=§3Start TetraCraft!
+achievement.nileStart.desc=Gather nile grains, dust, or essence
+
+#Achievement Pages
+achievementpage.tetracraft=TetraCraft
+
+#GUI Strings
+tetracraft.gui.config.title=TetraCraft Configurations
+tetracraft.gui.config.function=Functions Settings
+tetracraft.gui.config.function.tooltip=Manage all the entity and mod functions.
+tetracraft.gui.config.property.ModCheck=Check Mod Version
+tetracraft.gui.config.property.ModCheck.tooltip=Toggles the mod version checker
+
+#Death Messages
+death.attack.ice=%1$s frozen to death by %2$s
+
+#Keymappings
+tetracraft.key.categories=TetraCraft
+tetracraft.key.stand=Stand Up
+
+#Command Phases
+commands.mod.notameable=There are no tameable mod creatures nearby!
+commands.mod.doesNotOwn.part1=You do not own %s!!
+commands.mod.doesNotOwn.part2=Owner: %s
+commands.mod.cannotModify=You cannot %s wild %ds!!
+commands.mod.alreadyModified=%s %d!!
+commands.mod.interact.success.heal=Healed %s!
+commands.mod.interact.success.tame=Tamed!
+commands.mod.interact.success.tame.newOwnership=Taken ownership of %s!
+commands.mod.interact.success.name=%s is now known as %d!
+commands.mod.interact.success.purge.wild=Successfully purged wild entities
+commands.mod.interact.success.purge.tamed=Successfully purged tamed entities
+commands.mod.interact.success.purge.all=Successfully purged ALL entities
+commands.mod.interact.success.gender.male=%s's gender has set been to male
+commands.mod.interact.success.gender.female=%s's gender has set been to female
+commands.mod.interact.success.age.baby=%s's age has been set to baby
+commands.mod.interact.success.age.adult=%s's age has been set to adult
+commands.mod.interact.already.heal=is already healed
+commands.mod.interact.already.tame=is already tamed
+commands.mod.interact.already.name=is already named %s
+commands.mod.interact.already.gender.male=is already a male
+commands.mod.interact.already.gender.female=is already a female
+commands.mod.interact.already.age.baby=is already a baby
+commands.mod.interact.already.age.adult=is already an adult
+commands.mod.interact.fail.heal=heal
+commands.mod.interact.fail.gender=change the gender of
+commands.mod.interact.fail.age=change the age of
+commands.mod.interact.fail.name=change the name of
+commands.mod.noOwner=%s's owner no longer exists or uses the name known! Use to /tc admin tame to ownership of %d!!
+
+#Interactions
+interaction.mod.entity.tooYoung=%s is too young %d!
+interaction.mod.entity.cannotBeRidden=to be ridden
